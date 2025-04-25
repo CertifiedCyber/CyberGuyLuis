@@ -35,7 +35,7 @@ Cybersecurity Tools:
 ---
 
 ## **📫 Let’s Connect**  
-🌐 LinkedIn: www.linkedin.com/in/cybersecluise 
+🌐 LinkedIn: www.linkedin.com/in/certifiedcyber 
 📧 Email: Echeverriae.luis@gmail.com  
 ---
 
