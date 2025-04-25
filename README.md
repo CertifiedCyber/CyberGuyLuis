@@ -1,42 +1,27 @@
-# Hi, I'm Luis E. 👋  
-🔒 Cybersecurity Student | CompTIA Security+ | CCST CyberSecurity | AZ-900 Certified  
+# 👋 Hi, I’m Luis E.
+
+🔐 Cybersecurity Analyst & SOC Analyst-in-training  
+🎓 Cybersecurity @ Western Governors University | Security+, Network+  
+🛠️ Building a personal SOC lab | Passionate about log analysis, threat detection, and defense-in-depth
+
+## 🧪 Current Projects
+
+### 🧠 Home SOC Lab – SIEM + Threat Detection
+- Built a virtual network using **Wazuh** and **ELK Stack**
+- Simulated brute force, privilege escalation, and lateral movement attacks
+- Parsed logs, created custom alerts, and practiced alert triage
+- Mapped findings to **MITRE ATT&CK** framework
+- Automated response with basic **Bash** and **PowerShell** scripts
 
 ---
 
-## **About Me**  
-🎓 Pursuing a Bachelor’s in Cybersecurity  
-🛡️ Passionate about Network Security, CyberSecurity News, everything Cyber 
-💼 Certifications: CompTIA A+, Project+, Security+, Network+, AZ-900, CCST Networking, CCST CyberSecurity  
-🚀 Goal: Transition to a SOC Analyst Role  
+## 🧰 Tools & Technologies
+
+`Wazuh` `ELK Stack` `Wireshark` `Nmap` `Linux` `Windows Server`  
+`Kali Linux` `Splunk (basic)` `PowerShell` `Bash` `VirtualBox/VMware`
 
 ---
 
-## **🔑 Certifications**   
-- CompTIA A+  
-- CompTIA Project+  
-- CompTIA Security+  
-- CompTIA Network+  
-- Microsoft AZ-900  
-- Cisco CCST Networking  
-- Cisco CCST CyberSecurity  
-
----
-
-## **🛠️ Projects**  
-Here are some projects I’ve built to practice cybersecurity skills:  
-
-
----
-
-## **💻 Tech Stack**  
-Cybersecurity Tools:  
-
-
----
-
-## **📫 Let’s Connect**  
-🌐 LinkedIn: www.linkedin.com/in/certifiedcyber 
-📧 Email: Echeverriae.luis@gmail.com  
----
-
-## **⚡ Fun Fact**  
+## 📫 Contact
+📧 Echeverriae.luis@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/certifiedcyber/)
