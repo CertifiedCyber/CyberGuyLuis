@@ -5,6 +5,12 @@
 🛠️ Building a personal SOC lab | Passionate about log analysis, threat detection, and defense-in-depth
 
 ## 🧪 Current Projects
+- Policy Template Generator (GDPR, HIPAA, etc.)
+  -  Tool that generates security poicy templates.
+ 
+- Risk Assessment Matrix Tool
+  -  Tool that Calculates risk scores based on likelihood x impact
+ 
 
 ### 🧠 Home SOC Lab – SIEM + Threat Detection
 - Built a virtual network using **Wazuh** and **ELK Stack**
